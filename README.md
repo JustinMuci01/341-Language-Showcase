@@ -1,5 +1,5 @@
 # 341-Language-Showcase
-Bash programming language showcase as part of CS-341, Programming Language Design and Implementation, at UIC. I ran the scripts in this order using Ubuntu running the Bash shell. 
+Bash language showcase as part of CS-341, Programming Language Design and Implementation, at UIC. I ran the scripts in this order using Ubuntu running the Bash shell. 
 
 make_directory.sh - This script creates a new folder in the current working directory called TEST_FILES. Within that folder, six files will also be made. Three of those files will be text files, and the other three will be .c files.
 
